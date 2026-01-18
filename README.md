@@ -19,3 +19,8 @@ This will print "Hello, World!" to the console.
 ## License
 
 MIT
+
+## Author
+
+Yasuhiro Matsumoto (a.k.a. mattn)
+
