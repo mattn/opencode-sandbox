@@ -14,7 +14,7 @@ go install github.com/mattn/opencode-sandbox@latest
 opencode-sandbox
 ```
 
-This will print "Hello, World!" to the console.
+This will print `Hello, World!` to the console.
 
 ## License
 
